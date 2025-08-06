@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Walter Velazquez 👋
 
-<!--
-**walave-dev/walave-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Actualmente aprendiendo **fundamentos de programación con C#**.
 
-Here are some ideas to get you started:
+📚 Próximamente comenzaré a estudiar **POO (Programación Orientada a Objetos)** y **HTML/CSS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Subo mis ejercicios y avances en este repositorio, como parte de mi proceso de aprendizaje.
+
+🚀 Mi objetivo es, apenas tenga bases sólidas, empezar proyectos propios (aplicaciones de consola, de escritorio y con bases de datos).
+
+🎥 Más adelante compartiré mis proyectos en **Instagram, LinkedIn y YouTube** para mostrar mi evolución y ayudar a otros que estén empezando.
+
+---
+
+*¡Gracias por visitar mi perfil! Si tienes sugerencias o recomendaciones, ¡son bienvenidas!*
