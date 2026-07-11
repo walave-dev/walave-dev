@@ -1,12 +1,12 @@
 # ¡Hola! Soy Walter Velazquez 👋
 
-🧑‍💻 Actualmente aprendiendo **fundamentos de programación con C#**.
+🧑‍💻 Actualmente reafirmando **fundamentos de programación con C#**.
 
-📚 Próximamente comenzaré a estudiar **POO (Programación Orientada a Objetos)** y **HTML/CSS**.
+📚 Profundizando en Base de datos relacionales.
 
-💡 Subo mis ejercicios y avances en este repositorio, como parte de mi proceso de aprendizaje.
+💡 Subo mis ejercicios y avances en este canal de github, como parte de mi proceso de aprendizaje.
 
-🚀 Mi objetivo es, apenas tenga bases sólidas, empezar proyectos propios (aplicaciones de consola, de escritorio y con bases de datos).
+🚀 Mis objetivos: proyectos propios que sean útiles en mi día a día, mientras desarrollo para algunas personas lo que pudieran necesitar.
 
 🎥 Más adelante compartiré mis proyectos en **Instagram, LinkedIn y YouTube** para mostrar mi evolución y ayudar a otros que estén empezando.
 
